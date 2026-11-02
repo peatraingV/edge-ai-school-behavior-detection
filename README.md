@@ -1,4 +1,4 @@
-# School Misbehavior Detection
+# Edge-AI-Based Detection of Smoking Behavior and Potentially Violent Interactions in School Environments
 
 An edge-AI monitoring system designed for **Raspberry Pi 5** with a **Hailo-8L AI accelerator**. The project processes live camera streams or recorded videos to analyze two types of behavior: smoking and potential violent interactions. It also provides a web dashboard for live-view monitoring and event review.
 
