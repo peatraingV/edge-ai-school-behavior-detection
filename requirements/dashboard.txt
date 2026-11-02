@@ -1,0 +1,3 @@
+# Web monitoring dashboard
+streamlit==1.60.0
+pandas==3.0.5

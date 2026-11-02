@@ -1,0 +1,42 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+hailo_env/
+pi5_env/
+.venv/
+venv/
+env/
+
+# Hailo Apps is installed through the external Hailo environment
+hailo_apps/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Freeze files - environment reference only
+requirements/*-freeze.txt
+
+# Runtime output
+output/*
+!output/smoking_crops/
+output/smoking_crops/*
+!output/smoking_crops/.gitkeep
+
+# Runtime events and snapshots
+shared/*
+!shared/.gitkeep
+!shared/snapshots/
+shared/snapshots/*
+!shared/snapshots/.gitkeep
+
+# Temporary files
+*.tmp
+.DS_Store
+.vscode/

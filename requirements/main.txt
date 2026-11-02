@@ -1,0 +1,13 @@
+# Python packages installed through pip
+numpy==1.26.4
+opencv-python==5.0.0.93
+
+# Provided by the Raspberry Pi system environment:
+# Flask==2.2.2
+# pygame==2.1.2
+# PyGObject==3.42.2
+# HailoRT==4.20.0
+# GStreamer and Hailo Apps
+#
+# These components must be installed through the
+# Raspberry Pi / Hailo software setup, not this pip file.
