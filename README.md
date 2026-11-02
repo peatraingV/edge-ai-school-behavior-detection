@@ -4,6 +4,12 @@ An edge-AI monitoring system designed for **Raspberry Pi 5** with a **Hailo-8L A
 
 > **Note:** This repository documents a working project implementation. The detection methods are not a substitute for human review and should not be treated as definitive proof of misconduct.
 
+## Technology Stack
+
+- **Hardware:** Raspberry Pi 5, Hailo-8L
+- **Core Technologies:** Edge AI, Computer Vision
+- **Programming Language:** Python
+  
 ## Features
 
 - **Pose estimation and person tracking** using a Hailo-compiled pose model in a GStreamer pipeline.
