@@ -134,3 +134,9 @@ The violence path is a motion- and interaction-based heuristic rather than a ded
 
 - [System Architecture](docs/system_architecture.md)
 - [Installation](docs/installation.md)
+
+## Contributors
+
+- **Võ Ngọc Trai** ([@peatraingV](https://github.com/peatraingV)) — System design and development, hardware/software integration, testing and validation.
+- **Lê Tiến Thịnh** ([@Thinh10-ai](https://github.com/Thinh10-ai)) — Development of the smoking verification model, implementation of Stage 1 smoking detection logic and violence detection logic.
+  
